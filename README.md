@@ -1,4 +1,4 @@
-# Badminton-Sport-Analysis-Computer-Vision
+# BADMINTON MATCH VIDEO ANALYSIS USING YOLOV3 AND MXNET MODEL ARCHITECTURES
 
 ## Proposals achieved as part of the project:
 
