@@ -1,5 +1,10 @@
 # BADMINTON MATCH VIDEO ANALYSIS USING YOLOV3, PYTORCH AND MXNET MODEL ARCHITECTURES
 
+*Completed by: <br />
+  Nethra Viswanathan <br />
+  Deepika <br />
+  Saimonika Kalasamudram <br />*
+  
 ## Proposals achieved as part of the project:
 
 Please find below the output achieved out of the objectives mentioned in the proposal document for a short badminton singles match video:
