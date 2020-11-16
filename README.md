@@ -60,4 +60,4 @@ All the annotated image files and videos have not been placed in deliverables du
 
 ## Output:
 
-![](name-of-giphy.gif)
+![](DetectedBadminton.gif)
