@@ -57,3 +57,7 @@ All the annotated image files and videos have not been placed in deliverables du
       *   Stand alone Funtion definitions
       *   Training code
       *   Detection code
+
+## Output:
+
+![](name-of-giphy.gif)
